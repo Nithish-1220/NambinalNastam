@@ -1,4 +1,4 @@
-package com.tradeshow.nambinalnastam.model;
+package com.tradeshow.nambinalnastam.model.XSShacking;
 import java.util.regex.*;
 
 public class MessageXSSUtits {

@@ -1,7 +1,7 @@
-package com.tradeshow.nambinalnastam.action;
+package com.tradeshow.nambinalnastam.action.XSShacking;
 
 import com.opensymphony.xwork2.Action;
-import com.tradeshow.nambinalnastam.model.MessageXSSUtits;
+import com.tradeshow.nambinalnastam.model.XSShacking.MessageXSSUtits;
 
 
 
